@@ -17,6 +17,12 @@ module.exports = {
       }, 
       height: {
         '350': '350px'
+      }, 
+      minWidth: {
+        '50pc': '50%',
+      }, 
+      maxWidth: {
+        '50pc': '50%',
       }
     },
   },
