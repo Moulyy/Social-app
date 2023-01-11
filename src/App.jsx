@@ -29,7 +29,6 @@ function App() {
           {/* Colonne centrale  */}
             <div className="flex-1">
               <Home></Home>
-              <Modal></Modal>
             </div>
           {/* Colonne de droite */}
           <div className="basis-1/6">
